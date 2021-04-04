@@ -1,0 +1,2 @@
+current_student=None
+current_admin=None
